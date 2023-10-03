@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Aybüke. Living and working in the UK as a Biology teacher.<br><br>I have decided to have a change in my career, so I have been studying IT languages and softwares to become an AWS-DevOps engineer. <br><br>I love reading and travelling (who doesn't!) and have been to 27 countries so far!<br><br>Currently working on Phyton, Linux and Windows servers.
+Hi, I am Aybüke. Living and working in the UK as a Biology teacher.<br><br>I have decided to have a change in my career, so I have been studying IT languages and softwares to become an AWS-DevOps engineer. <br><br>I love reading and travelling (who doesn't!) and have been to 27 countries so far!<br><br>Currently working on Amazon Web Services including Ec2, s3 Bucket and DevOps including Terraform and Ansible.
 
 
 # 💻 Tech Stack:
